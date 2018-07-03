@@ -1,2 +1,1 @@
-# egen_tutorial_projects
-Egen tutorial
+This is read me for tutorial project
