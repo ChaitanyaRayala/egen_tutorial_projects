@@ -2,3 +2,8 @@ body{
     color: white;
     background: gray;
 }
+
+section{
+    height: 400 px;
+    border: 2 px solid gray;
+}
