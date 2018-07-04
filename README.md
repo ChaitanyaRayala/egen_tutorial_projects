@@ -1,1 +1,1 @@
-This is a file for git demo
+This is a readme file for git demo with trucker project
